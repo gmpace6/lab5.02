@@ -42,4 +42,3 @@ module.exports = {
 
 let houses = require("./db.json")
 let globalId = 4
-
